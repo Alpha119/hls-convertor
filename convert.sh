@@ -1,7 +1,7 @@
 # Change input and output details
 
-output_path="pakash" # Output Path (Same will be pushed in main also)
-input_url="https://nl27.seedr.cc/ff_get/1140779554/Attraction.mkv?st=OpgMxVv4JVMYsydXU1Rzzw&e=1649224869" # Input direct file url
+output_path="paka" # Output Path (Same will be pushed in main also)
+input_url="https://15.sendcdn.com/d/gnyze4dd6gosj4l4zz2aldhkqzpj35azexdxr6j426sieqmy4lhkfv2hllmqnovda7qayl3x/video.mkv" # Input direct file url
 input_extension="mkv" # Extension of file url
 
 

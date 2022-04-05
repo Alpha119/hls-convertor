@@ -1,7 +1,7 @@
 # Change input and output details
 
-output_path="pakashal" # Output Path (Same will be pushed in main also)
-input_url="https://direct.safone.tech/720464/Bigg+Boss+Non-Stop+%282022%29+Season+01+Episode+46.mp4" # Input direct file url
+output_path="pakasha" # Output Path (Same will be pushed in main also)
+input_url="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" # Input direct file url
 input_extension="mp4" # Extension of file url
 
 

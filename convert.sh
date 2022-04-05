@@ -1,7 +1,7 @@
 # Change input and output details
 
 output_path="big-buck-bunny" # Output Path (Same will be pushed in main also)
-input_url="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" # Input direct file url
+input_url="https://fileslinkpro.herokuapp.com/309?.mp4" # Input direct file url
 input_extension="mp4" # Extension of file url
 
 

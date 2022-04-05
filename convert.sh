@@ -1,8 +1,8 @@
 # Change input and output details
 
-output_path="big-boss-46" # Output Path (Same will be pushed in main also)
-input_url="https://direct.safone.tech/720464/Bigg+Boss+Non-Stop+%282022%29+Season+01+Episode+46.mp4" # Input direct file url
-input_extension="mp4" # Extension of file url
+output_path="pakashala" # Output Path (Same will be pushed in main also)
+input_url="https://www-6i665829.ssl0d.com/hls/9KR3uMUkbmkiizxWvCGTcA/1649159202/V2QimfH6B2l1X8vYEOEPXkJ8acWTYY0NGvZjIMEDK4ipWc0GLU6n5YU3Li2butJ6-_7jbtToqv3aKH7wsD_GryO8aYW_CeGTZgcZIjV3zWzXlv818LPqfpwKQYMttV8dAJRfgDZX5Yfc616n2s9h0g/index-v1-a1.m3u8" # Input direct file url
+input_extension="m3u8" # Extension of file url
 
 
 
